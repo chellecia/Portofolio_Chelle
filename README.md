@@ -20,7 +20,8 @@ I focus on understanding data, building models, and developing practical solutio
 Feel free to explore my projects below 👋
 
 ---------------------------------------------------------
-#<table>
+
+<table>
   <tr>
     <td>
       <img src="https://github.com/chellecia/Diagnostics-Analysis-Article/blob/main/tbc%20gambar.jpg?raw=true" width="300"/>
