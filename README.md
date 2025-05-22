@@ -21,8 +21,8 @@ Feel free to explore my projects below 👋
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/chellecia/Diagnostics-Analysis-Article/blob/main/tbc%20gambar.jpg?raw=true" width="350"/>
+    <td style="width: 370px;">
+      <img src="https://github.com/chellecia/Diagnostics-Analysis-Article/blob/main/tbc%20gambar.jpg?raw=true" style="width: 100%; height: auto;" />
     </td>
     <td>
       <h3><a href="https://github.com/chellecia/Diagnostics-Analysis-Article">Diagnostic Analysis of IQI and Tuberculosis in Jakarta</a></h3>
@@ -33,8 +33,8 @@ Feel free to explore my projects below 👋
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/chellecia/BCA-Customer-Review-Analysis/blob/main/bca%20sentimen.jpeg?raw=true" width="350"/>
+    <td style="width: 370px;">
+      <img src="https://github.com/chellecia/BCA-Customer-Review-Analysis/blob/main/bca%20sentimen.jpeg?raw=true" style="width: 100%; height: auto;" />
     </td>
     <td>
       <h3><a href="https://github.com/chellecia/BCA-Customer-Review-Analysis">Sentiment Analysis on BCA Customer Reviews</a></h3>
