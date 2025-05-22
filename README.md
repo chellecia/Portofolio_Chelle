@@ -32,7 +32,6 @@ Feel free to explore my projects below 👋
     </td>
   </tr>
 </table>
-------------------------------------------------------------
 
 <table>
   <tr>
