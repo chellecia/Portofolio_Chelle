@@ -1,5 +1,3 @@
-
-
 ## **Hello, I'm Michelle Velice Patricia.**
 
 I am a Data Science student currently learning and working with machine learning, deep learning, natural language processing (NLP), and data visualization.  
@@ -19,12 +17,12 @@ I focus on understanding data, building models, and developing practical solutio
 
 Feel free to explore my projects below 👋
 
----------------------------------------------------------
+---
 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/chellecia/Diagnostics-Analysis-Article/blob/main/tbc%20gambar.jpg?raw=true" width="300"/>
+      <img src="https://github.com/chellecia/Diagnostics-Analysis-Article/blob/main/tbc%20gambar.jpg?raw=true" height="200"/>
     </td>
     <td>
       <h3><a href="https://github.com/chellecia/Diagnostics-Analysis-Article">Diagnostic Analysis of IQI and Tuberculosis in Jakarta</a></h3>
@@ -36,7 +34,7 @@ Feel free to explore my projects below 👋
 <table>
   <tr>
     <td>
-      <img src="https://github.com/chellecia/BCA-Customer-Review-Analysis/blob/main/bca%20sentimen.jpeg?raw=true" width="300"/>
+      <img src="https://github.com/chellecia/BCA-Customer-Review-Analysis/blob/main/bca%20sentimen.jpeg?raw=true" height="200"/>
     </td>
     <td>
       <h3><a href="https://github.com/chellecia/BCA-Customer-Review-Analysis">Sentiment Analysis on BCA Customer Reviews</a></h3>
