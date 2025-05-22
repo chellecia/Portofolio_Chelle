@@ -32,4 +32,16 @@ Feel free to explore my projects below 👋
     </td>
   </tr>
 </table>
+------------------------------------------------------------
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/chellecia/BCA-Customer-Review-Analysis/blob/main/bca%20sentimen.jpeg?raw=true" width="300"/>
+    </td>
+    <td>
+      <h3><a href="https://github.com/chellecia/BCA-Customer-Review-Analysis">Sentiment Analysis on BCA Customer Reviews</a></h3>
+      <p>This project analyzes customer sentiments towards Bank BCA using natural language processing techniques. The goal is to identify common themes, positive and negative feedback, and provide insights for improving customer experience.</p>
+    </td>
+  </tr>
+</table>
