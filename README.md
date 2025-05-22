@@ -1,6 +1,6 @@
-# Portofolio_Chelle
 
-Hello, I'm Michelle Velice Patricia.
+
+## **Hello, I'm Michelle Velice Patricia.**
 
 I am a Data Science student currently learning and working with machine learning, deep learning, natural language processing (NLP), and data visualization.  
 I focus on understanding data, building models, and developing practical solutions for real-world applications.
