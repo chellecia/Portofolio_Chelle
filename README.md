@@ -18,3 +18,9 @@ I focus on understanding data, building models, and developing practical solutio
 - Improving technical and analytical skills through hands-on projects
 
 Feel free to explore my projects below 👋
+
+---------------------------------------------------------
+[Diagnostic Analysis of IQI and Tuberculosis in Jakarta](https://github.com/chellecia/Diagnostics-Analysis-Article)
+
+This project conducts a detailed diagnostic analysis on Indonesia's Quality Indicators (IQI) and Tuberculosis (TBC) cases in Jakarta, leveraging BPJS Kesehatan data. 
+
