@@ -97,6 +97,6 @@ Feel free to explore my projects below ⬇️
 
 ---
 
-> *"Turning data into stories that inspire action."
+> "Turning data into stories that inspire action."
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHozd3diMG9nZDRyd3FzdjBuZTJiMGdpN3llYWs5c3h4YmF5dWV2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrRgIa839nAwRa2qKW/giphy.gif" />
 
