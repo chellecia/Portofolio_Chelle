@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Michelle Velice Patricia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hi there! I'm Michelle Velice Patricia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 I'm a passionate Data Science student with a growing interest in **machine learning**, **deep learning**, **natural language processing (NLP)**, and **data visualization**.  
 My mission is to transform raw data into meaningful insights and build intelligent systems that solve real-world problems.
@@ -83,12 +83,12 @@ Feel free to explore my projects below ⬇️
 
 ## 📊 GitHub Stats
 
-![Michelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chellecia&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chellecia&layout=compact&theme=default)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=chellecia&color=blue&style=flat-square)
 
 ---
 
-> *"Turning data into stories that inspire action."*
+---
+
+> *"Turning data into stories that inspire action."
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px" alt="Data Science Inspiration GIF" />
 
