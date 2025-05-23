@@ -1,23 +1,25 @@
-## 👋 Hello, I'm Michelle Velice Patricia.
+## 👋 Hi there! I'm Michelle Velice Patricia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am a Data Science student currently learning and working with **machine learning**, **deep learning**, **natural language processing (NLP)**, and **data visualization**.  
-My focus is on understanding data, building models, and developing practical solutions for real-world applications.
-
----
-
-## 📘 What I’m Learning
-- Machine Learning and Deep Learning  
-- Natural Language Processing (NLP)  
-- Data Visualization using Python and BI tools  
-- Tools: Python, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+I'm a passionate Data Science student with a growing interest in **machine learning**, **deep learning**, **natural language processing (NLP)**, and **data visualization**.  
+My mission is to transform raw data into meaningful insights and build intelligent systems that solve real-world problems.
 
 ---
 
-## 🎯 Current Focus
-- Applying AI techniques to real-world datasets  
-- Developing end-to-end data science projects  
-- Creating dashboards and communicating insights through data  
-- Improving technical and analytical skills through hands-on projects
+## 📚 Currently Exploring
+
+I am currently deepening my understanding of various fields within data science, including how to analyze data, build predictive models, and draw meaningful insights from both structured and unstructured information. My focus is on learning how to apply data-driven techniques to solve real-world problems and support better decision-making.
+
+I’m particularly interested in how data can be used to understand patterns, improve systems, and enhance user experiences across different domains. Whether it’s working with numbers, text, or visualizing trends, I enjoy the process of turning raw data into clear and valuable insights.
+
+Alongside this, I am developing my ability to communicate findings effectively through visualizations and reports. I believe that good data analysis is not only about building models, but also about presenting results in a way that others can easily understand and use. Through hands-on projects, I continue to strengthen both my technical and analytical thinking skills while staying curious and open to learning new tools and approaches.
+
+---
+
+## 🎯 Current Goals
+- 🚀 Applying AI techniques to real-world datasets  
+- 🧩 Building end-to-end data science and NLP projects  
+- 📈 Creating interactive dashboards and telling stories through data  
+- 🛠️ Strengthening both technical and analytical thinking through hands-on work
 
 ---
 
@@ -75,3 +77,18 @@ Feel free to explore my projects below ⬇️
 ---
 
 🌟 Thank you for visiting my GitHub profile!
+
+
+---
+
+## 📊 GitHub Stats
+
+![Michelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chellecia&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chellecia&layout=compact&theme=default)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chellecia&color=blue&style=flat-square)
+
+---
+
+> *"Turning data into stories that inspire action."*
+
