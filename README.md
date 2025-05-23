@@ -60,7 +60,7 @@ Feel free to explore my projects below ⬇️
 <table>
   <tr>
     <td width="370">
-      <img src="https://github.com/chellecia/Multi-Label-Text-Classification-for-Academic-Papers/blob/main/multilabel_cover.jpg" alt="Multi-Label Text Classification" width="100%">
+      <img src="https://github.com/chellecia/Multi-Label-Text-Classification-for-Academic-Papers/blob/main/academic%20gambar%20(2).jpg" alt="Multi-Label Text Classification" width="100%">
     </td>
     <td>
       <h3><a href="https://github.com/chellecia/Multi-Label-Text-Classification-for-Academic-Papers">📚 Multi-Label Text Classification for Academic Papers</a></h3>
