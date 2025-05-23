@@ -23,6 +23,14 @@ Alongside this, I am developing my ability to communicate findings effectively t
 
 ---
 
+## 📫 Contact Me
+
+Feel free to reach out via email: [michelle.velice@gmail.com](mailto:michelle.velice@gmail.com)
+
+Or connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-velice-patricia/) 
+
+---
+
 Feel free to explore my projects below ⬇️
 
 ---
@@ -90,5 +98,5 @@ Feel free to explore my projects below ⬇️
 ---
 
 > *"Turning data into stories that inspire action."
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px" alt="Data Science Inspiration GIF" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHozd3diMG9nZDRyd3FzdjBuZTJiMGdpN3llYWs5c3h4YmF5dWV2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrRgIa839nAwRa2qKW/giphy.gif" />
 
